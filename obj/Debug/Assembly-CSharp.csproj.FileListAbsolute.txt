@@ -1,0 +1,256 @@
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\nunit.framework.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEditor.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Mono.Cecil.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Unity.DataContract.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEditor.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\nunit.framework.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\obj\Debug\Assembly-CSharp.dll
+E:\Courses\Game _ Developing\1.Projects Workspace\Circle\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Admin\Desktop\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Admin\Desktop\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Circle\obj\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Circle\obj\Debug\Assembly-CSharp.pdb
+E:\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Circle\Temp\bin\Debug\nunit.framework.dll
+E:\Circle\Temp\bin\Debug\UnityEditor.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Circle\Temp\bin\Debug\Mono.Cecil.dll
+E:\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Circle\Temp\bin\Debug\Unity.DataContract.dll
+E:\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Circle\Temp\bin\Debug\UnityEngine.xml
+E:\Circle\Temp\bin\Debug\UnityEditor.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Circle\Temp\bin\Debug\nunit.framework.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Circle\obj\Debug\Assembly-CSharp.dll
+E:\Circle\obj\Debug\Assembly-CSharp.pdb
+E:\game\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+E:\game\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\game\Circle\Temp\bin\Debug\nunit.framework.dll
+E:\game\Circle\Temp\bin\Debug\UnityEditor.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+E:\game\Circle\Temp\bin\Debug\Mono.Cecil.dll
+E:\game\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\game\Circle\Temp\bin\Debug\Unity.DataContract.dll
+E:\game\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+E:\game\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\game\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\game\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+E:\game\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\game\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\game\Circle\Temp\bin\Debug\UnityEngine.xml
+E:\game\Circle\Temp\bin\Debug\UnityEditor.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\game\Circle\Temp\bin\Debug\nunit.framework.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\game\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\game\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\game\Circle\obj\Debug\Assembly-CSharp.dll
+E:\game\Circle\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Students\Desktop\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Students\Desktop\Circle\obj\Debug\Assembly-CSharp.dll
+C:\Users\Students\Desktop\Circle\obj\Debug\Assembly-CSharp.pdb
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\nunit.framework.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEditor.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEditor.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\nunit.framework.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\LailaAzizi\Desktop\newGame\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\LailaAzizi\Desktop\newGame\Circle\obj\Debug\Assembly-CSharp.dll
+C:\Users\LailaAzizi\Desktop\newGame\Circle\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Students\Desktop\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Students\Desktop\gamenew\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Students\Desktop\gamenew\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\gamenew\Circle\obj\Debug\Assembly-CSharp.dll
+C:\Users\Students\Desktop\gamenew\Circle\obj\Debug\Assembly-CSharp.pdb
+E:\gamenew\Circle\Temp\bin\Debug\Assembly-CSharp.dll
+E:\gamenew\Circle\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\gamenew\Circle\Temp\bin\Debug\nunit.framework.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEditor.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.UI.dll
+E:\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.dll
+E:\gamenew\Circle\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\gamenew\Circle\Temp\bin\Debug\Unity.DataContract.dll
+E:\gamenew\Circle\Temp\bin\Debug\ExCSS.Unity.dll
+E:\gamenew\Circle\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\gamenew\Circle\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\gamenew\Circle\Temp\bin\Debug\Unity.CecilTools.dll
+E:\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\gamenew\Circle\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEditor.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.UI.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\gamenew\Circle\Temp\bin\Debug\nunit.framework.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\gamenew\Circle\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\gamenew\Circle\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\gamenew\Circle\obj\Debug\Assembly-CSharp.dll
+E:\gamenew\Circle\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PinkCircle
+  - BlueCircle
+  - PurpleCircle
+  - PinkStarCircle
+  - FastSpeedCircle
+  - MagnetCircle
+  - MagnetCir
+  - SavingCircle
+  - bgMusic
+  - HitDefaultPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Circles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroud
+    uniqueID: 3101733573
+    locked: 0
+  - name: Foreground
+    uniqueID: 4111359431
+    locked: 0
+  - name: UIElements
+    uniqueID: 2550143457
+    locked: 0
